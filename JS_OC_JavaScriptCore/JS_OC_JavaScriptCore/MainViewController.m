@@ -25,6 +25,7 @@
 - (IBAction)btnClick1:(id)sender {
     WebViewController *webVC = [[WebViewController alloc] init];
     [self.navigationController pushViewController:webVC animated:YES];
+    NSLog(@"2223");
 }
 
 @end
