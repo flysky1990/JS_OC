@@ -19,7 +19,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view from its nib.
     self.title = @"主页";
-    NSLog(@"2223");
+    NSLog(@"222345");
 }
 
 - (IBAction)btnClick1:(id)sender {
