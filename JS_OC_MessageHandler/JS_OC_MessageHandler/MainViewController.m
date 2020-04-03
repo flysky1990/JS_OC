@@ -22,7 +22,7 @@
     self.title = @"主页1";
     NSLog(@"33");
 
-    NSLog(@"662");
+    NSLog(@"6623");
 
 }
 
