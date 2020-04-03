@@ -19,14 +19,17 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view from its nib.
-    self.title = @"主页";
+    self.title = @"主页1";
     NSLog(@"33");
+
     NSLog(@"66");
+
 }
 
 - (IBAction)btnClick2:(id)sender {
     WKWebViewController *wkWebVC = [[WKWebViewController alloc] init];
     [self.navigationController pushViewController:wkWebVC animated:YES];
+    NSLog(@"11");
 }
 
 @end
