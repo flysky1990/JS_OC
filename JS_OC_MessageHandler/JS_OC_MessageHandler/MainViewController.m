@@ -27,6 +27,7 @@
 - (IBAction)btnClick2:(id)sender {
     WKWebViewController *wkWebVC = [[WKWebViewController alloc] init];
     [self.navigationController pushViewController:wkWebVC animated:YES];
+    NSLog(@"11");
 }
 
 @end
