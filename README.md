@@ -11,6 +11,9 @@ JS与原生OC互相调用的Demo(持续更新中),如果帮助到你理解JS与i
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
+>>>>>>> dev1-400
+=======
 >>>>>>> dev1-400
 ## JS_OC_summary
 [JS_OC_summary](https://github.com/Haley-Wong/JS_OC/tree/master/JS_OC_summary)是2015年中整理的两种调用方式,包括通过URL和JavaScriptCore来实现调用<br>
